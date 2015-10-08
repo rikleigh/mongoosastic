@@ -13,13 +13,13 @@
     "elastical":"0.0.12"
   },
   "peerDependencies": {
-    "mongoose":"3.8.x"
+    "mongoose":"~4.0.8"
   },
   "devDependencies": {
       "mocha":"*"
     , "should":"*"
     , "async":"*"
-    , "mongoose":"3.8.x"
+    , "mongoose":"~4.0.8"
   },
   "engines": {
     "node": ">= 0.8.0"
